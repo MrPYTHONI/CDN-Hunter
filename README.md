@@ -44,7 +44,21 @@ Converts CIDR ranges into individual IP addresses for comprehensive scanning.
 
 
 
+# Multi-CDN IP Checker
 
+This tool allows you to check the status of IP addresses across multiple CDNs.
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MrPYTHONI/CDN-Hunter.git
+
+   cd CDN-Hunter
+
+   chmod +x scanner.sh
+
+   cd CDN-Hunter
 
 ---
 
